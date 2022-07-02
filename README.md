@@ -1,21 +1,24 @@
-# SoundGarden
-## Projeto Sound Garden feito em grupo
+# Sound Garden
+
+## Sobre
+Uma casa de show chamada Sound Garden será inaugurada e precisa de um site que exiba os eventos e permita que os clientes reservem ingressos através da Landing Page
+
 ## Desafio
-Neste desafio aprendemos como fazer consumo de uma API utilizando 4 dos métódos HTTP, - GET - POST - PUT - DELETE
-Landing Page - Visualizar eventos e fazer reservas
-Painel Administrativo - Criar, editar , excluir e visualizar reservas de eventos
-## Grupo
 
-https://img.shields.io/static/v1?label=<Larissa Mendes>&message=<Caio do Carmo
->&color=<Pedro Arruda
->&style=<Raphael Anizio
->&logo=<LOGO>
+ <li>Neste desafio aprendemos como fazer consumo de uma API utilizando 4 dos métódos HTTP, - GET - POST - PUT - DELETE
+ <li>Landing Page - Visualizar eventos e fazer reservas 
+ <li> Painel Administrativo - Criar, editar , excluir e visualizar reservas de eventos
 
-Larissa Mendes
-Caio do Carmo
-Pedro Arruda
-Raphael Anizio
-## Linguagens utilizadas
-HTML, CSS, JS e Bootstrap
+ ## Grupo
 
-
+ <li> Larissa Mendes
+ <li> Caio do Carmo
+ <li> Pedro Arruda
+ <li> Raphael Anizio
+ 
+ # Linguagens utilizadas 
+ <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
